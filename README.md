@@ -6,7 +6,7 @@
 
 **使用前(必要操作)** 
 
-1. 将本仓库的代码全部拷贝到你的项目等待编译完成。并把 从 [ILRuntime](https://github.com/Ourpalm/ILRuntime) 根目录中拷贝 ILRuntime、Mono.Cecil 两个文件夹到 Hotfix/ILSource/ 下。
+1. 将本仓库的代码全部拷贝到你的项目等待编译完成。并从 [ILRuntime](https://github.com/Ourpalm/ILRuntime) 根目录中拷贝 ILRuntime、Mono.Cecil 两个文件夹到 **CsHotfix/ILSource/** 下。
 
    注：`ILRuntime/Runtime/CLRBinding/` 文件夹不要替换。
 
@@ -22,7 +22,7 @@
 
 
 
-示例U3D工程和热更的C#工程，请查看 [HotfixCs_U3D]()
+示例U3D工程和热更的C#工程，请查看 [CsHotfix_U3D]()
 
 
 

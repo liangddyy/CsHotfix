@@ -1,0 +1,9 @@
+/AutoOut
+AutoOut.meta
+*.meta
+ILSource/*
+!ILSource/ILRuntime/
+ILSource/ILRuntime/*
+!ILSource/ILRuntime/Runtime/
+ILSource/ILRuntime/Runtime/*
+!ILSource/ILRuntime/Runtime/CLRBinding/
